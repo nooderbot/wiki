@@ -14,3 +14,4 @@
 ## 🥲 Commands
 
 * [Moderation](commands/moderation.md)
+* [Configuration](commands/configuration.md)
